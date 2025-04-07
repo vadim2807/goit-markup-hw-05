@@ -622,7 +622,7 @@ main {
 }
 
 .ftr-btn-icon {
-  margin-left: 16px;
+  /*margin-left: 16px;*/
   fill: #fff;
   width: 24px;
   height: 28px;
@@ -823,8 +823,8 @@ main {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  /*display: flex;
-  align-items: center;*/
+  display: flex;
+  align-items: center;
 }
 
 .modal-form-label-chek a {
